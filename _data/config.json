@@ -4,7 +4,7 @@
   "domain": "https://experiment.ru",
   "language": "es",
   "logoUrl": "",
-  "search": true,
+  "search": false,
   "showCookiesAdvice": false,
   "cookiesAdviceText": "О кукиз",
   "cookiesAdviceMoreInfoAnchor": "Подробнее",
@@ -39,5 +39,5 @@
   "showShareButtons": true,
   "showDate": true,
   "showRelatedPosts": true,
-  "relatedPostsTitle": "Related Posts"
+  "relatedPostsTitle": "Смотрите также"
 }

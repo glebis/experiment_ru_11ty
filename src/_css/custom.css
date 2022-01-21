@@ -4,9 +4,51 @@ html {
   scroll-behavior: smooth;
 }
 
+
+
+
+@font-face {
+    font-family: 'Bitum';
+    src: url('../_fonts/Bitum.eot');
+    src: local('Bitum'),
+        url('../_fonts/Bitum.eot?#iefix') format('embedded-opentype'),
+        url('../_fonts/Bitum.woff2') format('woff2'),
+        url('../_fonts/Bitum.woff') format('woff'),
+        url('../_fonts/Bitum.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitum';
+    src: url('../_fonts/Bitum-Bold.eot');
+    src: local('Bitum Bold'), local('Bitum-Bold'),
+        url('../_fonts/Bitum-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../_fonts/Bitum-Bold.woff2') format('woff2'),
+        url('../_fonts/Bitum-Bold.woff') format('woff'),
+        url('../_fonts/Bitum-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitum';
+    src: url('../_fonts/Bitum-Light.eot');
+    src: local('Bitum Light'), local('Bitum-Light'),
+        url('../_fonts/Bitum-Light.eot?#iefix') format('embedded-opentype'),
+        url('../_fonts/Bitum-Light.woff2') format('woff2'),
+        url('../_fonts/Bitum-Light.woff') format('woff'),
+        url('../_fonts/Bitum-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
 body {
   min-height: 100vh;
+  font-family: 'Bitum',sans-serif !important;
 }
+
 
 /* Fonts */
 
@@ -60,6 +102,11 @@ body {
 .tarjeta:hover {
   transition: all 1s;
   box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0px 0 1px rgb(10 10 10 / 2%);
+}
+
+.navbar-item--logo {
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* Post and Article Content*/

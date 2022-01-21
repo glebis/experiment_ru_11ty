@@ -1,48 +1,40 @@
 {
-  "title": "Once",
+  "title": "Опытным путём",
   "url": "/",
-  "domain": "https://once-eleventy.netlify.app",
+  "domain": "https://experiment.ru",
   "language": "es",
-  "logoUrl": "/_images/once.png",
+  "logoUrl": "",
   "search": true,
   "showCookiesAdvice": false,
-  "cookiesAdviceText": "Cookies advice text",
-  "cookiesAdviceMoreInfoAnchor": "More Info",
+  "cookiesAdviceText": "О кукиз",
+  "cookiesAdviceMoreInfoAnchor": "Подробнее",
   "cookiesAdviceMoreInfoUrl": "/cookies/",
   "googleAnalyticsID": "",
   "footerLinks": [
-    {
-      "anchor": "Legal Advice",
-      "url": "#"
-    },
-    {
-      "anchor": "Cookies Advice",
-      "url": "#"
-    }
+
   ],
   "navbarMenu": [
     {
-      "anchor": "About",
+      "anchor": "О сообществе",
       "url": "/about/"
     },
     {
-      "anchor": "Contact",
-      "url": "#"
+      "anchor": "Контакт",
+      "url": "/contact/"
     }
   ],
   "navbarButtons": [
     {
-      "anchor": "Suscribe",
+      "anchor": "Подписка",
       "class": "is-small is-danger",
-      "url": "about"
+      "url": "/subscribe/"
     }
   ],
   "social": {
-    "facebook": "https://facebook.com",
-    "twitter": "https://twitter.com",
-    "pinterest": "https://pinterest.com",
-    "instagram": "https://instagram.com",
-    "github": "https://github.com"
+    "facebook": "https://facebook.com/kalinin",
+    "twitter": "https://twitter.com/glebis",
+    "instagram": "https://instagram.com/glebkalinin"
+
   },
   "showShareButtons": true,
   "showDate": true,

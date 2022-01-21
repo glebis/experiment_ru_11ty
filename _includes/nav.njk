@@ -6,13 +6,13 @@
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
       </a>
-      <a class="navbar-item" href="{{ config.url }}">
+      <a class="navbar-item navbar-item--logo" href="{{ config.url }}">
         {% if config.logoUrl.length > 0 %}
           {#
             Si logo desde fichero: <img src="{{ config.logoUrl }}" alt="{{ config.title }}"/>
             Si logo insertado como SVG: {% logoSVG %}
           #}
-          <img src="{{ config.logoUrl }}" alt="{{ config.title }}"/>
+          <img src="{{ config.logoUrl }}" alt=""/>
         {% else %}
           {{ config.title }}
         {% endif %}

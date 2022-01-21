@@ -2,7 +2,7 @@
 layout: post.njk
 title: Быть взрослым
 permalink: /growing-up/
-date: 2021-12-29
+date: 2022-01-21
 description:
 
 ---
@@ -13,5 +13,6 @@ description:
 
 
 Вдохновлено:
+
 — Эндрю Хуберман
 - Лиза Фельдман Баррет

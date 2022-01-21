@@ -1,9 +1,8 @@
 ---
 layout: post.njk
 title: Внимательная созидательность
-tags: ['productivity', 'calendar']
 featuredImage:
-date: 2021-09-17
+date: 2022-01-121
 description: Ум как вода
 permalink: /mindful-creativity/
 ---

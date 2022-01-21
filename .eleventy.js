@@ -94,21 +94,21 @@ module.exports = function (eleventyConfig) {
 
         collection.map(item => {
             for (etiqueta of etiquetas) {
-                // console.log(item.data.tags.length)
+                 console.log(item.data.tags.length)
                 if (item.data.tags && item.data.tags.includes(etiqueta)) {
                     filtrados.add(item)
                 }
             }
         })
 
-        // Eliminar Post Actual
+        // Delete Actual Post
         for (item of filtrados) {
             if (item.data.page.inputPath == path) {
                 filtrados.delete(item)
             }
         }
 
-        // Limitar el número de Articulos y que sean aleatorios
+        // Limit number of articles  y que sean aleatorios
         let articulosFiltrados = Array.from(filtrados)
         if(articulosFiltrados.length <= limite) {
             return articulosFiltrados

@@ -1,6 +1,7 @@
 # TODO
 
-- [] timeline
+- [ ] timeline
+- [ ] default images for facebook
 
 
 

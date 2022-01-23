@@ -15,6 +15,10 @@
   ],
   "navbarMenu": [
     {
+      "anchor": "Think&Link",
+      "url": "/think-n-link/"
+    },
+    {
       "anchor": "О сообществе",
       "url": "/about/"
     },

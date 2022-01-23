@@ -38,6 +38,6 @@
   },
   "showShareButtons": true,
   "showDate": true,
-  "showRelatedPosts": true,
+  "showRelatedPosts": false,
   "relatedPostsTitle": "Смотрите также"
 }

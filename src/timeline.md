@@ -1,8 +1,8 @@
 ---
 layout: post-minimal.njk
 title: Расписание
-eleventyExcludeFromCollections: true
 permalink: /timeline/
+eleventyExcludeFromCollections: true
 ---
 
 # {{ title }}

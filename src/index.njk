@@ -10,6 +10,20 @@ pagination:
 
 <section class="section is-flex-grow-1">
   <div class="container">
+    <div class="columns is-variable is-full-desktop is-multiline is-mobile">
+      <div class="column is-full-tablet is-full-mobile mb-5">
+        <h1 style="font-size: 2.7rem; margin-bottom: .8rem">Сообщество внимательной продутивности «Опытным путём»</h1>
+        <p><strong>Внимательная продуктивность</strong> (mindful productivity) — это устойчивый способ работать, мыслить и творить.</p>
+        <p>Это не продукт, не готовая система или техника, а набор принципов, которые можно применять к работе, творчеству и мышлению. Принципы внимательной продуктивности укоренены в научных знаниях о работе психики, формировании привычек, мотивации.</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section is-flex-grow-1">
+  <div class="container">
 
     <div class="columns is-variable is-5-desktop is-multiline is-mobile">
       {% for item in pagination.items | reverse %}
@@ -19,11 +33,11 @@ pagination:
       {% endfor %}
     </div>
 
-    <div class="columns">
+<!--    <div class="columns">
       <div class="column has-text-centered">
         {% include "pagination.njk" %}
       </div>
-    </div>
+    </div> -->
 
   </div>
 </section>

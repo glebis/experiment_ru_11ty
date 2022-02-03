@@ -1,7 +1,9 @@
 ---
 layout: post-minimal.njk
 title: Think&Link Lab
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
+description: Выращиваем цифровой сад для знаний в Obsidian
+date: 2022-01-30
 ---
 
 # {{ title }}

@@ -4,7 +4,7 @@ title: Как давать обратную связь
 permalink: /feedback/
 date: 2021-12-29
 description:
-
+eleventyExcludeFromCollections: true
 ---
 ## Модель AID
 

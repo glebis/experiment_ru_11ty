@@ -2,7 +2,7 @@
 layout: post.njk
 title: Календарь как инструмент продуктивности
 permalink: /calendar/
-date: 2022-01-21
+date: 2022-01-31
 description:
 
 ---

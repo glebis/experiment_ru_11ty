@@ -5,6 +5,7 @@ featuredImage:
 date: 2022-01-21
 description: Ум как вода
 permalink: /mindful-creativity/
+eleventyExcludeFromCollections: true
 ---
 
 Как стать более творческим?

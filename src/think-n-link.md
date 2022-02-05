@@ -2,6 +2,7 @@
 layout: post-minimal.njk
 title: Think&Link Lab
 eleventyExcludeFromCollections: true
+description: Лаборатория по работе в среде Obsidian. Учимся работать со знаниями: Сохранять, Находить, Интегрировать, Создавать, Практиковать
 ---
 
 # {{ title }}

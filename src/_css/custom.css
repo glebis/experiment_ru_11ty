@@ -4,8 +4,16 @@ html {
   scroll-behavior: smooth;
 }
 
+.review-avatar
+{
+  max-height: 150px; border-radius: 10px; float: left;
 
+}
+.review-avatar:after {
+  clear: both;
+}
 
+hr, h2, h3 {clear:  both}
 
 @font-face {
     font-family: 'Bitum';

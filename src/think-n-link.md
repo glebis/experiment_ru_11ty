@@ -3,6 +3,7 @@ layout: post-minimal.njk
 title: Think&Link Lab
 description: Выращиваем цифровой сад для знаний в Obsidian. Учимся Сохранять, Находить, Интегрировать, Создавать, Практиковать
 date: 2022-01-30
+eleventyExcludeFromCollections: true
 ---
 
 Октябрь 2022: [Лаборатория Think&Link II](/think-n-link-ii/)

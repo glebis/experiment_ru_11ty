@@ -112,7 +112,7 @@ Chief Information Officer (CIO), Телеконтакт
 
 <div style="display: table-row;">
 <img src="/_images/2022/2022-petr-02.png" alt="" style="max-width: 45%; display: table-cell; margin-bottom: 1rem;" >
-<img src="/_images/2022/2022-petr-01.png" alt=""  style="max-width: 45%; display: table-cell; " ></div>
+<img src="/_images/2022/2022-petr-01.png" alt=""  style="max-width: 45%; display: table-cell; ; margin-bottom: 1rem;" ></div>
 
 **Петр Марков**, insta [@bcexopowo](https://instagram.com/bcexopowo)
 

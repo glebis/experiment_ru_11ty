@@ -14,10 +14,7 @@
 
   ],
   "navbarMenu": [
-    {
-      "anchor": "Think&Link",
-      "url": "/think-n-link/"
-    },
+
     {
       "anchor": "О сообществе",
       "url": "/about/"
@@ -29,9 +26,9 @@
   ],
   "navbarButtons": [
     {
-      "anchor": "Подписка",
+      "anchor": "Think&Link II",
       "class": "is-small is-danger",
-      "url": "/subscribe/"
+      "url": "/think-n-link-ii/"
     }
   ],
   "social": {
